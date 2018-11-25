@@ -8,3 +8,5 @@ Red
 Pink
 
 These are the colors of the rainbow
+
+This is added here with branch called new
