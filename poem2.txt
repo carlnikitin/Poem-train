@@ -9,3 +9,5 @@ Added another line using tutorial branch because the first experiment didnt work
 Now lets go
 
 Test with new branch called branchexample
+
+Adding some new stuff with login'ed user
